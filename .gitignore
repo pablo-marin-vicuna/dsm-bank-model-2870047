@@ -6,3 +6,5 @@ npm-debug.log
 *.pyc
 /__pycache__
 /application/__pycache__
+*.log
+/old

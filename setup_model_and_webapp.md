@@ -16,7 +16,8 @@
 # install requirements
 - `pip install sklearn`
 - `pip install pandas`
-- `pip install -r requirements.txt`
+- `pip install -r requirements.txt` (needed to fix several version numbers)
+- create new requirements.txt: 
 
 # initialize bank model flask app (fix small bug in __init__.py probably due to change of version) 
 - `cd dsm-bank-model-2870047`
